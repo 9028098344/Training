@@ -1,0 +1,70 @@
+https://github.com/Tikam02/DevOps-Guide
+//nichethyself-my.sharepoint.com/:v:/p/ketan/Eavjt2BSMv5PsZfuNOxhNKoBUAkk6PQslWQ5_1Qr6eZtQw?email=ketan%40nichethyself.com
+
+
+Assignment - 17Sep
+1. Study git commit --amend command in more detail.
+
+
+
+
+Below assignments are from Slide 19 - Git-GitHub PDF.
+
+
+2. Find out the difference between git checkout -- file, and git checkout file by doing it
+
+
+3. Try git reset HEAD related commands and observe the changes.
+
+
+4. Add 2-3 commits locally.  Push them to your GitHub repository.
+   
+Now use git reset HEAD command to remove one of those commits and then try to push it back to the server.
+
+
+
+5. Try git reset --hard command and observe the changes in the working directory and the changes you had made as part of that commit.
+
+
+6. Repeat assignment 4 but instead of using git reset command use "git revert"
+
+
+
+7. Go through few frequently referred questions on stackoverflow.
+
+
+
+Below assignments are from Slide 21
+
+
+1. Rename one file
+
+2. Relocate one file
+
+3. Rename and relocate one file in a single command.
+
+4. delete one file using the git rm command.
+
+
+git config global user.email mail@gmail
+git congig globsl user.name Name
+
+git add .
+git commit -m
+git status
+git status -s
+
+git diff --staged
+git diff
+
+git rm 
+git rm --cached
+
+git checkout
+git log -p -1
+
+touch .gitignore
+
+
+
+
