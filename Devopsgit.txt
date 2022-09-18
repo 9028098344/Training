@@ -1,3 +1,5 @@
+
+
 https://github.com/Tikam02/DevOps-Guide
 //nichethyself-my.sharepoint.com/:v:/p/ketan/Eavjt2BSMv5PsZfuNOxhNKoBUAkk6PQslWQ5_1Qr6eZtQw?email=ketan%40nichethyself.com
 
@@ -61,5 +63,10 @@ git rm --cached
 
 git checkout
 git log -p -1
+
+.gitignore  //add filename like *.log  myapp.txt this will ignore all log file and myapp.txt to commit
+
+
+
 
 
