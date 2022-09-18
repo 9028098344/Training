@@ -44,3 +44,22 @@ Below assignments are from Slide 21
 3. Rename and relocate one file in a single command.
 
 4. delete one file using the git rm command.
+
+
+git config global user.email mail@gmail
+git congig globsl user.name Name
+
+git add .
+git commit -m
+git status
+
+git diff --staged
+git diff
+
+git rm 
+git rm --cached
+
+git checkout
+git log -p -1
+
+
