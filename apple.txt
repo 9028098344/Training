@@ -1,1 +1,2 @@
 This is a sweet fruit
+color i Red
